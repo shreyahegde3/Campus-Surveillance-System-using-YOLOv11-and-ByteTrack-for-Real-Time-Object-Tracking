@@ -53,7 +53,7 @@ SeekBot is a state-of-the-art campus surveillance system that leverages computer
 
 1. **Clone the repository**
    ```bash
-   git https://github.com/pranavacchu/Campus-Surveillance-System-using-YOLOv11-and-ByteTrack-for-Real-Time-Object-Tracking.git
+   git https://github.com/shreyahegde3/Campus-Surveillance-System-using-YOLOv11-and-ByteTrack-for-Real-Time-Object-Tracking
    cd my-react-app
    ```
 
